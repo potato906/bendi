@@ -15,4 +15,4 @@ model and datasets:
 
 The code is only partial.
 
-This repository contains non-sensitive data from the ongoing project. Sensitive confidential datasets are available from the corresponding author upon reasonable request (see Data Availability Statement in the manuscript for contact details).
+This repository contains non-sensitive data from the ongoing project. Sensitive confidential data are available from the corresponding author upon reasonable request (see Data Availability Statement in the manuscript for contact details).
