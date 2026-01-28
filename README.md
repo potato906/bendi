@@ -13,4 +13,6 @@ The dataset is provided by CLS-Collecte Localisa-tion Satellites and Erwan Guegu
 
 model and datasets:
 
+The code is only partial.
+
 This repository contains non-sensitive data from the ongoing project. Sensitive confidential datasets are available from the corresponding author upon reasonable request (see Data Availability Statement in the manuscript for contact details).
